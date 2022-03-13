@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "87D68468-FED4-44C3-BA8C-5339C5A53632"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11AF4C34-00EE-41EB-93C0-3767CB94B3BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Instagram/PostCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "PostCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "11AF4C34-00EE-41EB-93C0-3767CB94B3BD - 86d59e11f1e9fc22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Instagram.PostCell.userNameLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Instagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhiraja/Documents/CodePath/Instagram/Instagram/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "11AF4C34-00EE-41EB-93C0-3767CB94B3BD - de439861d54f27be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Instagram.PostCell.userNameLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Instagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhiraja/Documents/CodePath/Instagram/Instagram/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "11AF4C34-00EE-41EB-93C0-3767CB94B3BD - 66971a741d608492"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Instagram.PostCell.userNameLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Instagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhiraja/Documents/CodePath/Instagram/Instagram/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "11AF4C34-00EE-41EB-93C0-3767CB94B3BD - 1b11501b55e442e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Instagram.PostCell.userNameLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Instagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhiraja/Documents/CodePath/Instagram/Instagram/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "11AF4C34-00EE-41EB-93C0-3767CB94B3BD - 2823f7dc668bf1cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Instagram.PostCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Instagram.PostCell"
+                  moduleName = "Instagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhiraja/Documents/CodePath/Instagram/Instagram/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "11AF4C34-00EE-41EB-93C0-3767CB94B3BD - 7a875b20e5dac508"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Instagram.PostCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Instagram.PostCell&gt;"
+                  moduleName = "Instagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhiraja/Documents/CodePath/Instagram/Instagram/PostCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "141">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
