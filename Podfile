@@ -10,6 +10,8 @@ target 'Instagram' do
 
   pod 'Parse'
 
+  pod 'MessageInputBar'
+
   target 'InstagramTests' do
     inherit! :search_paths
     # Pods for testing
